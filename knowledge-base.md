@@ -36,7 +36,7 @@ Alias method chain vs. prepend http://www.justinweiss.com/blog/2014/09/08/rails-
 Another prepend usage example: http://hashrocket.com/blog/posts/module-prepend-a-super-story
 Worst practices: http://archive.oreilly.com/pub/a/ruby/excerpts/ruby-best-practices/worst-practices.html
 
-Javascript:
+### Javascript
 https://robots.thoughtbot.com/replace-coffeescript-with-es6
 Promises intro: http://blog.getify.com/promises-part-1/
 Concurrency (single threaded, but simulating more programmes running at once) vs. 
@@ -62,9 +62,12 @@ DI: http://guides.emberjs.com/v1.13.0/understanding-ember/dependency-injection-a
 
 https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda
 https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96
-
 http://medialoot.com/blog/how-to-create-a-website-header-design-using-bohemian-coding-sketch/
 https://storify.com/bombayhustle/lukew-tips-for-mobile-design
+https://github.com/dangrossman/bootstrap-daterangepicker
+Filtering time date: http://ux.stackexchange.com/questions/13939/filtering-stats-what-are-some-good-patterns-to-follow-for-filtering-a-time-date
+
+Multi actions: http://www.jonathanpsimmons.com/interacting-with-lists/ https://css-tricks.com/ui-pattern-ideas-list-with-functions/
 
 ### Design inspiration
 
@@ -81,6 +84,9 @@ https://www.google.cz/search?q=flat+ui&espv=2&biw=1247&bih=674&source=lnms&tbm=i
 http://ui-patterns.com/patterns/CalendarPicker
 http://www.smashingmagazine.com/2009/06/15/40-helpful-resources-on-user-interface-design-patterns/
 http://ui-patterns.com/users/1/collections/553/entry/2959
+http://michal.langmajer.cz/
+Freckle: http://screencast.com/t/uH2pizCdd1rY http://screencast.com/t/H7soCk2dIVu
+
 
 
 ### Food
@@ -109,5 +115,6 @@ Justin Weiss blog
 Ruby Tapas
 http://blog.uxpin.com/3609/psychology-and-design-10-best-presentations/
 https://pragprog.com/book/jvrails2/crafting-rails-4-applications
+http://devblog.avdi.org/
 
 ########################################################################
