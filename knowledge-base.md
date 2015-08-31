@@ -7,6 +7,9 @@ Immutable: http://valve.github.io/blog/2014/07/04/from-object-to-functional-immu
 Nice example of refactoring: https://robots.thoughtbot.com/code-show-and-tell-polymorphic-finder
 Chain of responsibility example in ruby: https://gist.github.com/martindemello/7231bf0f407ca428b509
 Dependency injection, Service locator, Inversion of control: http://www.martinfowler.com/articles/injection.html
+Mock vs. stub: http://stackoverflow.com/questions/3459287/whats-the-difference-between-a-mock-stub
+Exhibit vs. presenter: http://mikepackdev.com/blog_posts/31-exhibit-vs-presenter
+Observer, singleton: http://www.sitepoint.com/design-patterns-in-ruby-observer-singleton/
 
 # Job
 Programmers price: http://www.newyorker.com/magazine/2014/11/24/programmers-price
@@ -18,6 +21,7 @@ API error handling: http://www.mattjohnston.co/blog/2013/10/18/responding-with-e
 Git merge vs. rebase explanation: http://mislav.uniqpath.com/2013/02/merge-vs-rebase/
 BEM, SASS, Bootstrap: https://medium.com/@andersonorui_/bem-sass-and-bootstrap-9f89dc07d20f
 Postgres in instagram: http://instagram-engineering.tumblr.com/post/40781627982/handling-growth-with-postgres-5-tips-from
+Trello CSS: http://blog.trello.com/refining-the-way-we-structure-our-css-at-trello/
 
 ### Ruby on Rails
 How to avoid stupid capybara problems: http://robots.thoughtbot.com/write-reliable-asynchronous-integration-tests-with-capybara
@@ -29,9 +33,12 @@ Autoloading vs. Eager loading: http://blog.arkency.com/2014/11/dont-forget-about
 Basic reading about AR models: http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/
 Scopes: http://blog.plataformatec.com.br/2013/02/active-record-scopes-vs-class-methods
 Monolith to microservices example: http://blog.carbonfive.com/2014/05/29/an-incremental-migration-from-rails-monolithic-to-microservices/
+Rails pub-sub: http://alma-connect.github.io/techblog/2014/03/rails-pub-sub.html
+Refactoring: http://confreaks.tv/videos/aloharuby2012-refactoring-from-good-to-great
+Multitenancy: https://leanpub.com/multi-tenancy-rails
 
 ### Ruby
-Ruby threading reading list: http://speakmy.name/2013/04/02/concurrent-programming-and-threads-in-ruby-reading-list/
+Ruby threading reading list: http://speakmy.name/2013/04/02/concurrent-programming-and-threads-in-ruby-reading-list/ http://www.sitepoint.com/threads-ruby/
 Alias method chain vs. prepend http://www.justinweiss.com/blog/2014/09/08/rails-5-module-number-prepend-and-the-end-of-alias-method-chain
 Another prepend usage example: http://hashrocket.com/blog/posts/module-prepend-a-super-story
 Worst practices: http://archive.oreilly.com/pub/a/ruby/excerpts/ruby-best-practices/worst-practices.html
@@ -68,6 +75,8 @@ https://github.com/dangrossman/bootstrap-daterangepicker
 Filtering time date: http://ux.stackexchange.com/questions/13939/filtering-stats-what-are-some-good-patterns-to-follow-for-filtering-a-time-date
 
 Multi actions: http://www.jonathanpsimmons.com/interacting-with-lists/ https://css-tricks.com/ui-pattern-ideas-list-with-functions/
+Psychology: http://blog.uxpin.com/3609/psychology-and-design-10-best-presentations
+UX research methods: http://www.nngroup.com/articles/which-ux-research-methods/
 
 ### Design inspiration
 
