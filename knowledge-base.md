@@ -65,18 +65,20 @@ Rails tutorial: http://ember.vicramon.com/
 Container: http://ember.zone/beginning-to-understand-the-ember-js-container/
 DI: http://guides.emberjs.com/v1.13.0/understanding-ember/dependency-injection-and-service-lookup/
 
+### User interface
+Product management by Ryan Singer: https://signalvnoise.com/posts/3914-video-ryan-teaches-product-management-at-mind-the-product-in-san-francisco
+https://storify.com/bombayhustle/lukew-tips-for-mobile-design
+Psychology: http://blog.uxpin.com/3609/psychology-and-design-10-best-presentations
+UX research methods: http://www.nngroup.com/articles/which-ux-research-methods/
+https://github.com/dangrossman/bootstrap-daterangepicker
+Filtering time date: http://ux.stackexchange.com/questions/13939/filtering-stats-what-are-some-good-patterns-to-follow-for-filtering-a-time-date
+Multi actions: http://www.jonathanpsimmons.com/interacting-with-lists/ https://css-tricks.com/ui-pattern-ideas-list-with-functions/
+
 ### Design
 
 https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda
 https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96
 http://medialoot.com/blog/how-to-create-a-website-header-design-using-bohemian-coding-sketch/
-https://storify.com/bombayhustle/lukew-tips-for-mobile-design
-https://github.com/dangrossman/bootstrap-daterangepicker
-Filtering time date: http://ux.stackexchange.com/questions/13939/filtering-stats-what-are-some-good-patterns-to-follow-for-filtering-a-time-date
-
-Multi actions: http://www.jonathanpsimmons.com/interacting-with-lists/ https://css-tricks.com/ui-pattern-ideas-list-with-functions/
-Psychology: http://blog.uxpin.com/3609/psychology-and-design-10-best-presentations
-UX research methods: http://www.nngroup.com/articles/which-ux-research-methods/
 
 ### Design inspiration
 
